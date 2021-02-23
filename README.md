@@ -10,3 +10,15 @@ Workshop for introducing Python and also learn it from building game. The [slide
 
 ## Run on Repl
 [Click me](https://repl.it/github/Justin900429/python_workshop)
+
+* Set up the `.replit`
+
+  ```
+  language = "undefined"
+  run = "python <file-to-run>"
+  ```
+
+  For example, to run **snake.py**, set it to
+  ```
+  run = "python snake.py
+  ```
