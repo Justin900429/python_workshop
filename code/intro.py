@@ -4,7 +4,7 @@ import pygame
 pygame.init()
 
 # Set the display window
-screen = pygame.display.set_mode([500, 500])
+screen = pygame.display.set_mode((500, 500))
 
 # Run until the user asks to quit
 running = True

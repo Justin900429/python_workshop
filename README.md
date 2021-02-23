@@ -15,10 +15,10 @@ Workshop for introducing Python and also learn it from building game. The [slide
 
   ```
   language = "undefined"
-  run = "python <file-to-run>"
+  run = "python code/<file-to-run>"
   ```
 
   For example, to run **snake.py**, set it to
   ```
-  run = "python snake.py
+  run = "python code/snake.py
   ```

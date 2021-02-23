@@ -13,6 +13,9 @@ from pygame.locals import (
 # Initialize pygame
 pygame.init()
 
+# Set the display window
+pygame.display.set_mode((100, 100))
+
 # Variable to keep the main loop running
 running = True
 
