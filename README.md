@@ -14,7 +14,7 @@ Workshop for introducing Python and also learn it from building game. The [slide
 * Set up the `.replit`
 
   ```
-  language = "undefined"
+  language = "python3"
   run = "python code/<file-to-run>"
   ```
 
