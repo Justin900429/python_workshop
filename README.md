@@ -15,10 +15,10 @@ Workshop for introducing Python from building game. The [slide link](https://git
 
   ```
   language = "python3"
-  run = "python code/<file-to-run>"
+  run = "python <file-to-run>"
   ```
 
   For example, to run **snake.py**, set it to
   ```
-  run = "python code/snake.py
+  run = "python pygame_code/snake.py
   ```
